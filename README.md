@@ -1,2 +1,3 @@
-#Learning Python and GIT
+# Learning Python and GIT
 
+This is a learning repo.
